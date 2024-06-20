@@ -1,0 +1,7 @@
+
+Pet Image Label Dictionary has 4 key-value pairs.
+Below are 4 of them:
+ 1 key:                  Bucket_01.jpg  label:                     bucket
+ 2 key:                     Dog_01.jpg  label:                        dog
+ 3 key:                     Dog_02.jpg  label:                        dog
+ 4 key:                    Frog_01.jpg  label:                       frog
